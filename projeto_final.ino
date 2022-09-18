@@ -1,3 +1,4 @@
+//Baseado nos códigos de Gustavo Murta do blog Eletrogate e Dejan Nedelkovski do site How to Mechatronics
 
 //Variáveis e sets do servomotor
 
