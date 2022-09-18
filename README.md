@@ -7,3 +7,4 @@ A proposta do trabalho era utilizar o sensor de cor TCS230 junto a uma placa UNO
 
 O diagrama de blocos acima representa a forma como o sistema atuava e foi utilizado para definir a organização do código do programa.
 
+[Continua...]
